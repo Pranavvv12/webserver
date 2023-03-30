@@ -50,7 +50,10 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+## SERVER SIDE:
 ![GitHub Logo](webpage.png)
+## CLIENT SIDE:
+![Output](terminal.png)
 
 ## RESULT:
 Thus a webserver developed to display about top five web application development frameworks
